@@ -1,3 +1,8 @@
+# url for this repo
+
+https://github.com/pleabargain/python_4_image_frame
+
+# thoughts
 I asked gpt3 to write this script for me.
 
 It took seconds to write working code.
